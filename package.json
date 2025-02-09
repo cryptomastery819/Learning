@@ -1,0 +1,16 @@
+{
+  "name": "tron-sweeper-bot",
+  "version": "1.0.0",
+  "description": "A simple Tron blockchain sweeper bot that moves funds from one address to another automatically.",
+  "main": "tron_sweeper.js",
+  "scripts": {
+    "start": "node tron_sweeper.js"
+  },
+  "dependencies": {
+    "tronweb": "^4.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["tron", "crypto", "blockchain", "sweeper", "bot"],
+  "author": "Your Name",
+  "license": "MIT"
+}
